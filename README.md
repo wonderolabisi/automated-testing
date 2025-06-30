@@ -25,7 +25,7 @@ To get started with running the tests, follow the instructions below:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/davraops/automated-testing.git
+    git clone https://github.com/wonderolabisi/automated-testing.git
     ```
 
 2. Run the script to execute all tests:
